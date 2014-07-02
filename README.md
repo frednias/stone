@@ -1,4 +1,4 @@
 stone
 =====
 
-Simple python framework
+Simple Python Framework
